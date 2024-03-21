@@ -1,8 +1,5 @@
-# React + Vite
+# Samosa Selector Game
+See how fast you can click to generate as samosas.
+It is an incremental game created. The user initially clicks on a big samosa on the screen, earning a single cookie per click. And can purchase upgrades to increase click count. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Inspired from Cookie Clicker  
